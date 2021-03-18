@@ -1,0 +1,26 @@
+{
+  "name": "Lerarning-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elielton1-alt/API-TYPESCRIPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elielton1-alt/API-TYPESCRIPT/issues"
+  },
+  "homepage": "https://github.com/elielton1-alt/API-TYPESCRIPT#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.4"
+  }
+}
